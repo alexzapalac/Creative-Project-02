@@ -1,0 +1,55 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #f2a900
+}
+
+form {
+  text-align: center;
+  background-color: #4d4d4e;
+  color: #fff;
+  padding: 20px;
+  margin: 0px;
+}
+
+input#crptoSubmit {
+  padding: 5px;
+  margin-top: 10px;
+}
+
+
+.breaker {
+  text-align: center;
+}
+
+
+div#cryptoResults {
+  text-align: center;
+}
+
+div img {
+  width: 10%;
+}
+
+div#forecastResults {
+  padding-top: 20px;
+  text-align: center;
+}
+
+div#forecastResults img {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+
+div#tickers {
+    padding-top: 20px;
+    text-align: center;
+  }
+
+footer {
+  text-align: center;
+  padding-top: 25px
+
+}
